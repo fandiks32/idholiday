@@ -1,5 +1,5 @@
 
-lang = 'id'
+lang    = 'id'
 country = 'indonesian'
 api_key = File.read(File.dirname(__FILE__) + '/../secret/apikey')
 
